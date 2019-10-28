@@ -40,12 +40,12 @@ Type full path to image you want to convert to text:/home/beangreen247/Pictures/
 ```
 Next it will ask for the language used in the document
 ```
-Type the language of the scanned document (3 letter ID):ces
+Type the language of the scanned document (3 letter ID):eng
 ```
 And lastly it will ask for the output file name
 ```
-Type output file name:text1-vystup
+Type output file name:text1-output
 ```
-The files name will be, in my case, text1-vystup-ces.txt
+The files name will be, in my case, text1-output-eng.txt
 
 Hope you like it.
