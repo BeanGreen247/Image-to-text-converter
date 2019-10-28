@@ -26,6 +26,10 @@ To find your needed language make sure to look here https://github.com/tesseract
 * get the best possible image quality
 * higher text quality (bigger DPI like 1200 DPI)
 ## Usage
+Download the app
+```
+wget https://raw.githubusercontent.com/BeanGreen247/Image-to-text-converter/master/imagetotextconversion.py
+```
 Launch the app
 ```
 python3.6 imagetotextconversion.py
